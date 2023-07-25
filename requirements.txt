@@ -9,4 +9,3 @@ Requests==2.31.0
 streamlit==1.22.0
 streamlit_option_menu==0.3.2
 websockets==10.4
-~treamlit==1.22.0
